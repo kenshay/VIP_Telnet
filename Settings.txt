@@ -1,0 +1,3 @@
+Repo_URL = "https://github.com/kenshay/VIP_Telnet.git"
+userEmail = "kennyshay123@gmail.com"
+name = "kenshay"
